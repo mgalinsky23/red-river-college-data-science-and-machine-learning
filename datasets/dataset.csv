@@ -1,0 +1,16 @@
+Row Number,Temperature,Color,Target
+1,Cold,Red,0
+2,Very Hot,Blue,0
+3,Hot,Yellow,0
+4,Cold,Red,1
+5,Cold,Yellow,1
+6,Very Hot,Yellow,1
+7,Hot,Yellow,1
+8,Hot,Yellow,1
+9,Cold,Red,0
+10,Warm,Red,1
+11,Cold,Yellow,1
+12,Cold,Yellow,0
+13,Cold,Red,1
+14,Cold,Red,0
+15,Very Hot,Red,1

@@ -1,0 +1,51 @@
+IncidentID,Date,Location,Severity
+1,2023-01-01,Tasmania,High
+2,2023-01-02,South Australia,High
+3,2023-01-03,Victoria,Low
+4,2023-01-04,South Australia,High
+5,2023-01-05,South Australia,High
+6,2023-01-06,New South Wales,Medium
+7,2023-01-07,Victoria,Low
+8,2023-01-08,Victoria,Medium
+9,2023-01-09,Victoria,Medium
+10,2023-01-10,South Australia,Medium
+11,2023-01-11,Tasmania,Medium
+12,2023-01-12,Victoria,Medium
+13,2023-01-13,South Australia,Medium
+14,2023-01-14,New South Wales,Medium
+15,2023-01-15,Tasmania,Low
+16,2023-01-16,New South Wales,High
+17,2023-01-17,Tasmania,Medium
+18,2023-01-18,South Australia,Medium
+19,2023-01-19,Queensland,Medium
+20,2023-01-20,Tasmania,Medium
+21,2023-01-21,New South Wales,Medium
+22,2023-01-22,South Australia,Medium
+23,2023-01-23,Tasmania,High
+24,2023-01-24,Queensland,High
+25,2023-01-25,Queensland,Medium
+26,2023-01-26,Victoria,High
+27,2023-01-27,Victoria,Low
+28,2023-01-28,New South Wales,Medium
+29,2023-01-29,Tasmania,Low
+30,2023-01-30,Tasmania,Low
+31,2023-01-31,Victoria,Medium
+32,2023-02-01,Tasmania,High
+33,2023-02-02,Tasmania,Low
+34,2023-02-03,Queensland,Medium
+35,2023-02-04,Victoria,Low
+36,2023-02-05,South Australia,Low
+37,2023-02-06,Victoria,Low
+38,2023-02-07,South Australia,Low
+39,2023-02-08,Queensland,High
+40,2023-02-09,New South Wales,Low
+41,2023-02-10,Tasmania,Low
+42,2023-02-11,Queensland,Low
+43,2023-02-12,Tasmania,High
+44,2023-02-13,New South Wales,Low
+45,2023-02-14,New South Wales,Low
+46,2023-02-15,Queensland,High
+47,2023-02-16,New South Wales,High
+48,2023-02-17,South Australia,High
+49,2023-02-18,New South Wales,Low
+50,2023-02-19,Tasmania,High

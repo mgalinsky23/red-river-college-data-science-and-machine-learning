@@ -1,0 +1,12 @@
+Year,Region,Product_Category,Sales,Units_Sold,Profit
+2015,North America,Electronics,150000,5000,30000
+2015,Europe,Clothing,120000,4000,25000
+2016,Asia,Furniture,180000,3500,40000
+2016,South America,Electronics,100000,2000,20000
+2017,Africa,Clothing,80000,1500,15000
+2018,Europe,Furniture,220000,4500,55000
+2019,Asia,Electronics,170000,6000,35000
+2020,North America,Clothing,130000,3000,28000
+2020,South America,Furniture,140000,3200,30000
+2020,Europe,Electronics,160000,5200,32000
+2020,Asia,Clothing,100000,2900,21000
