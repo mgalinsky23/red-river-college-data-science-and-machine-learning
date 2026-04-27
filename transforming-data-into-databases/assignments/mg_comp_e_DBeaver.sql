@@ -1,6 +1,5 @@
 /*
 Name: Michelle Galinsky
-Student ID: 0399259
 Submission Date: 2025-03-28
 */
 
@@ -8,14 +7,14 @@ Submission Date: 2025-03-28
 USE mysql;
 
 DROP DATABASE IF EXISTS
-    mg_0399259_comp_e;
+    mg_comp_e;
 
 CREATE DATABASE IF NOT EXISTS
-    mg_0399259_comp_e
+    mg_comp_e
     CHARSET='utf8mb4'
     COLLATE='utf8mb4_unicode_ci';
 
-USE mg_0399259_comp_e;
+USE mg_comp_e;
 
 
 
