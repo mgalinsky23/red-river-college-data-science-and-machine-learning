@@ -94,14 +94,14 @@ Updates:
 USE mysql;
 
 DROP DATABASE IF EXISTS
-	mg_0399259_boxstore;
+	mg_boxstore;
 
 CREATE DATABASE IF NOT EXISTS
-	mg_0399259_boxstore
+	mg_boxstore
 	CHARSET='utf8mb4'
 	COLLATE='utf8mb4_unicode_ci';
 
-USE mg_0399259_boxstore;
+USE mg_boxstore;
 
 
 
@@ -200,7 +200,7 @@ VALUES ('Alex Gilmer'),
        ('Michelle Galinsky');
 
 
-LOAD DATA LOCAL INFILE 'C:/_data/_imports/mg_0399259_boxstore_people_10k.csv'
+LOAD DATA LOCAL INFILE 'C:/_data/_imports/mg_boxstore_people_10k.csv'
 INTO TABLE people
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
@@ -392,14 +392,14 @@ Updates:
 USE mysql;
 
 DROP DATABASE IF EXISTS
-	mg_0399259_boxstore;
+	mg_boxstore;
 
 CREATE DATABASE IF NOT EXISTS
-	mg_0399259_boxstore
+	mg_boxstore
 	CHARSET='utf8mb4'
 	COLLATE='utf8mb4_unicode_ci';
 
-USE mg_0399259_boxstore;
+USE mg_boxstore;
 
 
 
@@ -766,14 +766,14 @@ USE mysql;
 
 
 DROP DATABASE IF EXISTS
-	mg_0399259_boxstore;
+	mg_boxstore;
 
 CREATE DATABASE IF NOT EXISTS
-	mg_0399259_boxstore
+	mg_boxstore
 	CHARSET='utf8mb4'
 	COLLATE='utf8mb4_unicode_ci';
 
-USE mg_0399259_boxstore;
+USE mg_boxstore;
 
 
 
