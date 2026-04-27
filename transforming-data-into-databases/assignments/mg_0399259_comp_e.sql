@@ -1,14 +1,13 @@
 /*
 Name: Michelle Galinsky
-Student ID: 0399259
 Submission Date: 2025-03-28
 */
 
 -- Drop the database if it exists
-DROP DATABASE IF EXISTS mg_0399259_comp_e;
+DROP DATABASE IF EXISTS mg_comp_e;
 
 -- Create a new database
-CREATE DATABASE mg_0399259_comp_e
+CREATE DATABASE mg_comp_e
     WITH ENCODING 'UTF8'
     LC_COLLATE='en_US.UTF-8'
     LC_CTYPE='en_US.UTF-8'
