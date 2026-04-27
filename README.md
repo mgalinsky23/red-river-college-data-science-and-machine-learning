@@ -2,7 +2,7 @@
 
 # Red River College Data Science Portfolio
 
-Hi! I'm Michelle Galinsky, a data science student at Red River College Polytechnic. This repository showcases my coursework, final projects, and technical growth across multiple subjects including Python programming, machine learning, databases, and neural networks.
+Hi! I'm Michelle Galinsky, a data science graduate from Red River College Polytechnic. This repository showcases my coursework, final projects, and technical growth across multiple subjects including Python programming, machine learning, databases, and neural networks.
 
 ## 📁 Repository Structure
 
@@ -13,7 +13,6 @@ Hi! I'm Michelle Galinsky, a data science student at Red River College Polytechn
 - `transforming-data-into-databases/`: SQL scripts, ER diagrams, and database design projects
 - `data-management/`: Final project focused on data governance and schema modeling
 - `ai/`: Group activities and coursework in artificial intelligence
-- `datasets/`: Public or anonymized datasets used across projects
 
 ## 🧠 Skills Demonstrated
 
