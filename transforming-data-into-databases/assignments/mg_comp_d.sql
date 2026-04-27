@@ -1,6 +1,5 @@
 /*
 Name: Michelle Galinsky
-Student ID: 0399259
 */
 
 -- This command can be used to create the boxstore database. 
@@ -11,14 +10,14 @@ Student ID: 0399259
 USE mysql;
 
 DROP DATABASE IF EXISTS
-    mg_0399259_comp_d;
+    mg_comp_d;
 
 CREATE DATABASE IF NOT EXISTS
-    mg_0399259_comp_d
+    mg_comp_d
     CHARSET='utf8mb4'
     COLLATE='utf8mb4_unicode_ci';
 
-USE mg_0399259_comp_d;
+USE mg_comp_d;
 
 
 
