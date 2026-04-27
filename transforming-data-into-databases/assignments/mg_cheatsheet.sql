@@ -1,6 +1,5 @@
 /*
 *	Name: Michelle Galinsky
-*	Student ID: 0399259
 *	Updates: 2025-01-13: Create file. Add "CREATE DATABASE" command
 *			 2025-01-14: Added syntax for dropping database first
 *			 2025-01-24: Added content for Competency B 
